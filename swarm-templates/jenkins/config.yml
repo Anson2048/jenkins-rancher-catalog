@@ -1,0 +1,8 @@
+name: jenkins
+description: |
+  # Description of the Catalog Entry
+version: latest
+category: service
+maintainer: huhuan2048@gmail.com
+license: MIT
+projectURL: https://github.com/Anson2048/jenkins-rancher-catalog
